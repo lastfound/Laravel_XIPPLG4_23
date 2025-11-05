@@ -14,5 +14,5 @@ class Student extends Model
         'nama_lengkap',
         'jenis_kelamin',
         'nisn',
-    ]:
+    ];
 }
